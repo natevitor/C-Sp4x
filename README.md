@@ -1,5 +1,4 @@
 # SavvyFix - Precificação dinâmica
-
 Enzo Oliveira  - RM 551356
 João Vitor  - RM 550381
 Pedro  - RM 551446
@@ -35,10 +34,10 @@ segurança no tratamento das informações passadas pelo usuário.</p>
 
 ### Realizar o clone do projeto 
 
-#### <p>O primeiro passoa para testar a apliação é realizar o git clone do nosso projeto através do linK: https://github.com/LuizFFarias/challenge-asp_net-savvyfix.git</p>
+#### <p>O primeiro passoa para testar a apliação é realizar o git clone do nosso projeto através do linK: https://github.com/natevitor/C-Sp4x.git</p>
 
 
-<p>1. Abra um terminal e digite: git clone https://github.com/LuizFFarias/challenge-asp_net-savvyfix.git</p>
+<p>1. Abra um terminal e digite: git clone https://github.com/natevitor/C-Sp4x.git/p>
 <p>2. Abra o projeto em uma IDE destinada para C#/.NET como Rider ou Visual Studio.</p>
 <p>3. Inicie o projeto SavvyfixAspNet.Api como http.</p>
 <p>4. Após iniciar, entre no link abaixo para testar a aplicação através do Swagger UI: </p>
