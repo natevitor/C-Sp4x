@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\Properties",
+    "\\SavvyfixAspNet",
+    "\\SavvyfixAspNet.Api",
+    "\\SavvyfixAspNet.Api\\Configuration",
+    "\\SavvyfixAspNet.Data",
+    "\\SavvyfixAspNet.Domain",
+    "\\SavvyfixAspNet.Service",
+    "\\SavvyfixAspNet.UnitTest"
+  ],
+  "SelectedNode": "\\README.md",
+  "PreviewInSolutionExplorer": false
+}
